@@ -1,2 +1,2 @@
 # kata Prime Numbers
-Algorith to find all the primes lower than a given number.
+Algorithm to find all the primes lower than a given number.
