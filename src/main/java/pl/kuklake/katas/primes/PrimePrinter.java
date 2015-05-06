@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class PrimePrinter {
 	
-	private static final int MAX_PRIME = 13;
+	private static final int MAX_PRIME = 100;
 	
 	public static void main(String[] args) {
 		PrimesGenerator primesGenerator = PrimesGeneratorFactory.getInstance();
